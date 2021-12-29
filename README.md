@@ -11,5 +11,5 @@ There are other late night patrons that you have come to be familiar with over t
 
 Let me know what you think!
 
-<div style="width:100%;"><div style="width:100%; display:flex;"><table width=100% cellspacing=0 cellpadding=0><tr><td valign=top><div style="display:table;">
-					<a href=/bbs/?tid=34869><div class=post_title2>Midnight Launderette</div></a>
+https://ghostedbones.github.io/midnight.html
+
